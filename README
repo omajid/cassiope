@@ -1,0 +1,11 @@
+Cassiope
+========
+
+A tiny program to probe its envionment. Prints its environment.
+
+Named after https://www.asc-csa.gc.ca/eng/satellites/cassiope.asp
+
+License
+-------
+
+GNU General Public License (GPL) version 2.0 or later.
