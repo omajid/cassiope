@@ -42,6 +42,7 @@ int main(int argc, char** argv)
      print_file("/proc/filesystems");
      print_file("/proc/cgroups");
      print_file("/proc/self/cgroup");
+     print_file("/sys/fs/cgroup");
 
      return 0;
 }
